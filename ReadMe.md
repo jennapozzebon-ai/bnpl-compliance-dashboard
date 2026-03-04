@@ -37,8 +37,8 @@ These flags support compliance teams in prioritizing reviews and escalations.
 
 ## 📁 Files
 - `bnpl_analysis.xlsx` - Full Excel dashboard with pivot tables and charts
-- `insights_summary.md` - Written insights and recommendations
-- `dashboard_screenshot.png` - Screenshot of the final dashboard
+- `Insights-Summary.md` - Written insights and recommendations
+- `dashboard.png` - Screenshot of the final dashboard
 
 ## 🧠 Why This Matters
 This project demonstrates the ability to:
@@ -51,6 +51,7 @@ This project demonstrates the ability to:
 **Jenna Pozzebon** 
 www.linkedin.com/in/jenna-pozzebon
 jennapozzebon@gmail.com
+
 
 
 

@@ -1,6 +1,6 @@
 # BNPL Compliance Monitoring Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![BNPL Compliance Dashboard](BNPL Dashboard.png)
 
 ## 📊 Project Overview
 This project analyzes **50,000+ BNPL (Buy Now Pay Later) transactions** to identify default risk patterns and provide actionable compliance insights. The dashboard tracks default rates by purchase category, BNPL provider, income bracket, and age group — with a high-risk transaction watchlist for priority review.
@@ -51,3 +51,4 @@ This project demonstrates the ability to:
 **Jenna Pozzebon** 
 www.linkedin.com/in/jenna-pozzebon
 jennapozzebon@gmail.com
+

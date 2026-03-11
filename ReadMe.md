@@ -31,12 +31,15 @@ The dashboard includes a watchlist of transactions flagged for:
 These flags support compliance teams in prioritizing reviews and escalations.
 
 ## 🛠️ Tools Used
+- **Python:** Data cleaning, exploratory analysis and watchlist generation (pandas, numpy, matplotlib)
 - **SQL:** Data preparation and analysis
 - **Excel:** PivotTables, charts, conditional formatting, dashboard design
 - **Data Source:** 50,000+ simulated BNPL transactions
 
 ## 📁 Files
-- `bnpl_analysis.xlsx` - Full Excel dashboard with pivot tables and charts
+- `bnpl_analysis.ipynb` — Python notebook with full data cleaning, analysis, and visualizations
+- `bnpl_dataset.csv` — Source dataset of 50,000+ simulated BNPL transactions
+- `bnpl_watchlist.csv` — High-risk transaction watchlist generated from the analysis
 - `Insights-Summary.md` - Written insights and recommendations
 - `dashboard.png` - Screenshot of the final dashboard
 
@@ -51,6 +54,7 @@ This project demonstrates the ability to:
 **Jenna Pozzebon** 
 www.linkedin.com/in/jenna-pozzebon
 jennapozzebon@gmail.com
+
 
 
 
